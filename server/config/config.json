@@ -1,0 +1,10 @@
+{
+    "token":"weixin",
+    "appID":"wx586d2a4d23646ecd",
+    "appScrect":"95d4047822b6845c236b7249e6389ef5",
+    "apiDomain":"https://api.weixin.qq.com/",
+    "apiURL":{
+        "accessTokenApi":"%scgi-bin/token?grant_type=client_credential&appid=%s&secret=%s"
+    }
+   
+}
